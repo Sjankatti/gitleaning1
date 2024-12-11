@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 448D-E336
+
+ Directory of C:\Users\meena\OneDrive\Desktop\git
+
+11-12-2024  08:12    <DIR>          .
+11-12-2024  06:52    <DIR>          ..
+11-12-2024  06:52    <DIR>          first
+11-12-2024  08:06             1,897 san1.txt
+11-12-2024  07:24                22 san2.txt
+11-12-2024  08:08             1,963 san3.txt
+11-12-2024  07:23               527 san4.txt
+11-12-2024  08:12                 0 san6.txt
+               5 File(s)          4,409 bytes
+               3 Dir(s)  45,385,932,800 bytes free

@@ -1,19 +1,22 @@
-1)  git --version
-2) download and install git 
-3) create GitHub accout 
-4) configure GitHub account to a local git
-   git config --global user.email "sjankatti@gmail.com"
+1)  git --version ============= to check version or check git installation 
+2) download and install git  ========== if not installed install
+3) create GitHub accout     =================   cloud Git repository to store or push and pull files 
+4) configure GitHub account to a local git  ========   first we have to configure credentials 
+   git config --global user.email "sjankatti@gmail.com"    
    git config --global user.name "sjankatti"
-5) create a folder of project or go to the folder by using cd path 
-6) git init
-7) git status
-8) git add filename  or git add .
-9) git commit -m "added san1.txt"
-10) git remote add origin https://github.com/Sjankatti/gitleaning1.git
-11)git branch -M main
-12) git push -u origin master
+5) create a folder of project or go to the folder by using cd path  ======  new project path 
+6) git init =======   to add to local git 
+7) git status  =========  check th
+8) git add filename  or git add .                =========== add added files or changed files to local git repo
+9) git commit -m "added san1.txt"                =========== commit to local git added or changed files
+10) git remote add origin https://github.com/Sjankatti/gitleaning1.git  ========== connect it to cloud GitHub repository 
+11)git branch -M main                    =============================== =========  select a branch where to push
+12) git push -u origin master            ====================================== push all changes to cloud git 
+=================================================================================================================================
 
-
+create branch and merge
+1) git branch branchname  ============  to create branch
+2) 
 
 https://github.com/Sjankatti/gitleaning1.git
 
