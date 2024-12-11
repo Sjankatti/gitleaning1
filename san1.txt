@@ -19,8 +19,12 @@ create branch and merge
 2) git checkout branchname    ==== to change branch or go to the git branch
 3) git add .
 4) git commit 
-5) git push -u origin brancgname
+5) git push -u origin branchname
+6) git checkout main = =====================  go to main branch
+7) git merge branchname  ============== merge all changes 
+8) git push -u origin main
 
+==================================================================================================
 https://github.com/Sjankatti/gitleaning1.git
 
 …or create a new repository on the command line
