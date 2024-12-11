@@ -10,13 +10,16 @@
 8) git add filename  or git add .                =========== add added files or changed files to local git repo
 9) git commit -m "added san1.txt"                =========== commit to local git added or changed files
 10) git remote add origin https://github.com/Sjankatti/gitleaning1.git  ========== connect it to cloud GitHub repository 
-11)git branch -M main                    =============================== =========  select a branch where to push
+11) git branch -M main                    =============================== =========  select a branch where to push
 12) git push -u origin master            ====================================== push all changes to cloud git 
 =================================================================================================================================
 
 create branch and merge
 1) git branch branchname  ============  to create branch
-2) 
+2) git checkout branchname    ==== to change branch or go to the git branch
+3) git add .
+4) git commit 
+5) git push -u origin brancgname
 
 https://github.com/Sjankatti/gitleaning1.git
 
